@@ -1,2 +1,2 @@
 # Natural-Language-Processing
-Text Preprocessing: Scripts for tokenization, stopword removal, stemming, and lemmatization.Feature Engineering: Methods to convert text into numbers using Bag-of-Words, TF-IDF, or word embeddings (Word2Vec, FastText).Model Architectures: Implementations ranging from classic machine learning (Naive Bayes, Logistic Regression) to deep learn.
+Text Preprocessing: Scripts for tokenization, stopword removal, stemming, and lemmatization.Feature Engineering: Methods to convert text into numbers using Bag-of-Words, TF-IDF, or word embeddings (Word2Vec, FastText).Model Architectures: Implementations ranging from classic machine learning (Naive Bayes, Logistic Regression) to deep learn. 
