@@ -66,7 +66,7 @@ tokens = nltk.word_tokenize(text)
 print(tokens)
 ```
 
-## 📚 Concepts Covered
+ 📚 Concepts Covered
 
 * Tokenization
 * Stopwords
