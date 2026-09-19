@@ -82,9 +82,9 @@ print(tokens)
 
 The objective of this project is to understand the fundamental concepts of Natural Language Processing and apply them to real-world text data using Python and popular NLP libraries.
 
-## 👨‍💻 Author
+ 👨‍💻 Author
 
-**Suyash Naik**
+Suyash Naik
 B.E. Artificial Intelligence & Data Science
 PREC LONI (AI&DS)
 
