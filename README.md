@@ -34,7 +34,7 @@ NLP/
 ├── scripts/
 ├── requirements.txt
 └── README.md
-```
+
 
 ## ⚙️ Installation
 
