@@ -4,7 +4,7 @@ Text Preprocessing: Scripts for tokenization, stopword removal, stemming, and le
 
 A collection of Natural Language Processing (NLP) techniques and experiments implemented using Python. This project focuses on processing, cleaning, analyzing, and extracting useful information from text data.
 
-## 🚀 Features
+ 🚀 Features
 
 * Text preprocessing and cleaning
 * Tokenization
