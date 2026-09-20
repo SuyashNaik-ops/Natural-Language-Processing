@@ -24,7 +24,7 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
 * **Scikit-learn**
 * **Jupyter Notebook**
 
-## 📂 Project Structure
+ 📂 Project Structure
 
 ```text
 NLP/
