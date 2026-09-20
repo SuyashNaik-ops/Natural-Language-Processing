@@ -6,14 +6,14 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
 
  🚀 Features
 
-* Text preprocessing and cleaning
-* Tokenization
-* Stopword removal
-* Stemming and Lemmatization
-* Text normalization
-* Feature extraction
-* Exploratory analysis of text data
-* NLP-based text classification experiments
+ Text preprocessing and cleaning
+ Tokenization
+ Stopword removal
+ Stemming and Lemmatization
+ Text normalization
+ Feature extraction
+ Exploratory analysis of text data
+ NLP-based text classification experiments
 
  🛠️ Technologies Used
 
