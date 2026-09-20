@@ -51,7 +51,7 @@ Install the required dependencies:
 pip install -r requirements.txt
 ```
 
-## ▶️ Usage
+ ▶️ Usage
 
 Run the notebooks or Python scripts to perform the NLP preprocessing and analysis.
 
