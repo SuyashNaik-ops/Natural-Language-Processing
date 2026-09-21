@@ -69,7 +69,7 @@ print(tokens)
  📚 Concepts Covered
 
  Tokenization
-* Stopwords
+ Stopwords
 * Stemming
 * Lemmatization
 * Bag of Words
