@@ -70,7 +70,7 @@ print(tokens)
 
  Tokenization
  Stopwords
-* Stemming
+ Stemming
 * Lemmatization
 * Bag of Words
 * TF-IDF
