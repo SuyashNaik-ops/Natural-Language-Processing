@@ -17,7 +17,7 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
 
  🛠️ Technologies Used
 
-* **Python**
+ **Python**
 * **NLTK**
 * **Pandas**
 * **NumPy**
