@@ -71,12 +71,12 @@ print(tokens)
  Tokenization
  Stopwords
  Stemming
-* Lemmatization
-* Bag of Words
-* TF-IDF
-* Text preprocessing
-* Feature extraction
-* Text classification
+ Lemmatization
+ Bag of Words
+ TF-IDF
+ Text preprocessing
+ Feature extraction
+ Text classification
 
  🎯 Objective
 
