@@ -17,12 +17,12 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
 
  🛠️ Technologies Used
 
- **Python**
- **NLTK**
- **Pandas**
- **NumPy**
- **Scikit-learn**
- **Jupyter Notebook**
+ **Python
+ **NLTK
+ **Pandas
+ **NumPy
+ **Scikit-learn
+ **Jupyter Notebook
 
  📂 Project Structure
 
