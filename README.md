@@ -57,14 +57,14 @@ Run the notebooks or Python scripts to perform the NLP preprocessing and analysi
 
 Example:
 
-```python
+python
 import nltk
 
 text = "Natural Language Processing is interesting."
 
 tokens = nltk.word_tokenize(text)
 print(tokens)
-```
+
 
  📚 Concepts Covered
 
