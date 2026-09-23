@@ -1,6 +1,6 @@
-# Natural-Language-Processing
+ Natural-Language-Processing
 Text Preprocessing: Scripts for tokenization, stopword removal, stemming, and lemmatization.Feature Engineering: Methods to convert text into numbers using Bag-of-Words, TF-IDF, or word embeddings (Word2Vec, FastText).Model Architectures: Implementations ranging from classic machine learning (Naive Bayes, Logistic Regression) to deep learn. And other Processes Regarding NLP.
-# NLP Project
+ NLP Project
 
 A collection of Natural Language Processing (NLP) techniques and experiments implemented using Python. This project focuses on processing, cleaning, analyzing, and extracting useful information from text data.
 
