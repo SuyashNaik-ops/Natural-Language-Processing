@@ -86,5 +86,5 @@ The objective of this project is to understand the fundamental concepts of Natur
 
 Suyash Naik.
 B.E. Artificial Intelligence & Data Science
-PREC LONI (AI&DS),
+PREC LONI (AI&DS)
 
