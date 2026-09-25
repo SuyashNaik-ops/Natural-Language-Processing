@@ -26,7 +26,7 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
 
  📂 Project Structure
 
-```text
+text
 NLP/
 │
 ├── notebooks/
