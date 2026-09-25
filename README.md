@@ -40,10 +40,10 @@ NLP/
 
 Clone the repository:
 
-```bash
+bash
 git clone https://github.com/SuyashNaik-ops/NLP.git
 cd NLP
-```
+
 
 Install the required dependencies:
 
