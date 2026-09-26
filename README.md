@@ -15,7 +15,7 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
  Exploratory analysis of text data
  NLP-based text classification experiments
 
- 🛠️ Technologies Used
+ 🛠️ Technologies Used:
 
  Python
  NLTK
@@ -24,7 +24,7 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
  Scikit-learn
  Jupyter Notebook
 
- 📂 Project Structure
+ 📂 Project Structure:
 
 text
 NLP/
