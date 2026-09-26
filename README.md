@@ -78,7 +78,7 @@ print(tokens)
  Feature extraction
  Text classification
 
- 🎯 Objective
+ 🎯 Objective:
 
 The objective of this project is to understand the fundamental concepts of Natural Language Processing and apply them to real-world text data using Python and popular NLP libraries.
 
