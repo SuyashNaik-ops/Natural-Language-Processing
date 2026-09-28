@@ -45,7 +45,7 @@ git clone https://github.com/SuyashNaik-ops/NLP.git
 cd NLP
 
 
-Install the required dependencies:
+Install the required dependencies:-
 
 bash
 pip install -r requirements.txt
