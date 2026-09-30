@@ -24,7 +24,7 @@ A collection of Natural Language Processing (NLP) techniques and experiments imp
  Scikit-learn
  Jupyter Notebook
 
- 📂 Project Structure:
+ 📂 Project Structure:-
 
 text
 NLP/
@@ -38,7 +38,7 @@ NLP/
 
  ⚙️ Installation
 
-Clone the repository:
+Clone the repository:-
 
 bash
 git clone https://github.com/SuyashNaik-ops/NLP.git
@@ -51,7 +51,7 @@ bash
 pip install -r requirements.txt
 
 
-▶️ Usage:
+▶️ Usage:-
 
 Run the notebooks or Python scripts to perform the NLP preprocessing and analysis.
 
